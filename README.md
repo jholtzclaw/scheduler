@@ -13,4 +13,4 @@ https://jholtzclaw.github.io/scheduler/
 * Version 1
 
 # Screenshot
-![Overview of Game Search](./images/ss1.jpg)
+![Overview of Work Day Planner](/scheduler/images/SS1.jpg)
